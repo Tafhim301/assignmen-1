@@ -1,0 +1,31 @@
+/* Header Styles */
+.header-section{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(229, 84, 115, 0.10);
+    height:fit-content
+   
+}
+.header-description{
+    padding-top: 100px;
+   
+}
+.header-image{
+    padding-top: 150px;
+    margin-bottom: 0PX;
+    padding-bottom: 0PX;
+    
+}
+.header-title{
+    font-size: 50px;
+    font-weight: 600;
+}
+.btn-primary{
+    height: 54px;
+    width: 130px;
+    border-radius: 5px;
+    border: none;
+    background-color:#E55473;
+    color: #fff;
+
+}
